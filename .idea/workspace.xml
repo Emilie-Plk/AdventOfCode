@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="398f6259-a318-42a2-a17e-3fc02b51c2ec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdventOfCode/2023/Day1$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdventOfCode/2023/Day1$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdventOfCode/2023/Day1$partOne$1$concatenatedNumbers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdventOfCode/2023/Day1$partOne$1$concatenatedNumbers$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdventOfCode/2023/Day1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdventOfCode/2023/Day1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/2023/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/2023/Day1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
