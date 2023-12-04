@@ -2,7 +2,7 @@ package `2023`
 
 import getPuzzleInput
 
-class Day0 {
+class Day2 {
 
     companion object {
         @JvmStatic
@@ -10,10 +10,10 @@ class Day0 {
             val lines = getPuzzleInput(this)
 
             println("=*=*=*==* Part 1 *=*=*=*=*=")
-            println(Day0().partOne(lines))
+            println(Day2().partOne(lines))
 
             println("=*=*=*==* Part 2 *=*=*=*=*=")
-            println(Day0().partTwo(lines))
+            println(Day2().partTwo(lines))
 
         }
     }

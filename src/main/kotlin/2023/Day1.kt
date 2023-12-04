@@ -39,7 +39,7 @@ class Day1 {
         println(
             lines.sumOf { line ->
                 val regexRule = Regex(
-                    "\\d+|(oneight|twone|eightwo|eighthree|fiveight|nineight|threeight|tenine|sevevine|one|two|three|four|five|six|seven|eight|nine)",
+                    "\\d+|(oneight|twone|eightwo|eighthree|fiveight|nineight|threeight|tenine|sevenine|one|two|three|four|five|six|seven|eight|nine)",
                     RegexOption.MULTILINE
                 )
                 val isolatedStringDigits: List<String> = regexRule.findAll(line).map { it.value }.toList()
